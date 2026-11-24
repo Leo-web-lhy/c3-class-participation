@@ -1,0 +1,12 @@
+# 暂存/中间文件
+*.tmp
+*.bak
+~$*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 平台内部草稿（不发公开仓库）
+参与草稿.md
